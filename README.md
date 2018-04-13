@@ -1,5 +1,5 @@
 # jQuery-smartMenu
-jQuery 右键菜单插件
+jQuery 右键菜单插件，代码源：http://www.zhangxinxu.com/study/201105/jquery-plugin-smart-menu-demo.html
 
 # 用法：
 ```js
